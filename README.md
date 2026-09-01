@@ -1,12 +1,10 @@
-# Repository-ready research package
+# Operational conversion of hazard information into human protective action across 11 major disasters
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22226106.svg)](https://doi.org/10.5281/zenodo.22226106)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22226107.svg)](https://doi.org/10.5281/zenodo.22226107)
 
+This repository contains the coded analytical data, reader-facing display derivatives, source registry, figure-generation code and reproducibility materials supporting the Communications Earth & Environment research article "Operational conversion of hazard information into human protective action across 11 major disasters".
 
-## Study
-Operational conversion of hazard information into human protective action across 11 major disasters
-
-This package contains the coded analytical data and reproducibility materials prepared for a Communications Earth & Environment research article. It is designed for deposit in a public research repository (for example, Zenodo or Figshare). Archived at https://doi.org/10.5281/zenodo.22226106 (concept DOI, always resolving to the latest version). Version 1.0.0 is archived at https://doi.org/10.5281/zenodo.22226107.
+The version used for the manuscript is archived on Zenodo at https://doi.org/10.5281/zenodo.22226107 (v1.0.0). Cite this version DOI, so that the exact analysed artefact remains retrievable. The concept DOI https://doi.org/10.5281/zenodo.22226106 represents all versions and resolves to the most recent one.
 
 ## Contents
 
