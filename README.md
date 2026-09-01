@@ -1,9 +1,12 @@
 # Repository-ready research package
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22226106.svg)](https://doi.org/10.5281/zenodo.22226106)
+
+
 ## Study
 Operational conversion of hazard information into human protective action across 11 major disasters
 
-This package contains the coded analytical data and reproducibility materials prepared for a Communications Earth & Environment research article. It is designed for deposit in a public research repository (for example, Zenodo or Figshare). The archival DOI should be inserted into the manuscript only after the repository deposit is created.
+This package contains the coded analytical data and reproducibility materials prepared for a Communications Earth & Environment research article. It is designed for deposit in a public research repository (for example, Zenodo or Figshare). Archived at https://doi.org/10.5281/zenodo.22226106 (concept DOI, always resolving to the latest version). Version 1.0.0 is archived at https://doi.org/10.5281/zenodo.22226107.
 
 ## Contents
 
@@ -44,7 +47,7 @@ The production re-render did not alter analytical data, classifications, coordin
 
 ## Reuse and verification
 
-Use `CHECKSUMS_SHA256.txt` to verify package integrity. The repository DOI remains to be added by the depositing author before the deposit is finalized.
+Use `CHECKSUMS_SHA256.txt` to verify package integrity.
 
 ## Licence
 
