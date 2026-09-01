@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite the associated article and this archived dataset."
+title: "Operational conversion of hazard information into human protective action across 11 major disasters - research data and code"
+type: dataset
+authors:
+  - family-names: Kim
+    given-names: Seungjin
+version: 1.0.0
+date-released: 2026-09-01
+repository-code: "[repository URL to be inserted]"
+identifiers:
+  - type: doi
+    value: "[repository DOI to be inserted]"
+license: CC-BY-4.0
